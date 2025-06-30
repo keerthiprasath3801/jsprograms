@@ -20,7 +20,8 @@ This repository currently contains the following programs:
 ### 🔍 4. Hamming Distance
 - Find the distance between two strings of equal length is the number of positions at which the corresponding characters are different.
 
-### 🔄 5. 
+### 🔄 5. Check if a given string is a palindrome
+-check if a given string is a paalindrome
 
 ---
 
