@@ -23,6 +23,8 @@ This repository currently contains the following programs:
 ### 🔄 5. Check if a given string is a palindrome
 -check if a given string is a paalindrome
 
+### 🔢 6.Find the subarray with the largest sum
+- 
 ---
 
 ## 🚀 How to Run the Code
