@@ -17,7 +17,8 @@ This repository currently contains the following programs:
 ### 🔁 3. Truncate 
 - truncate a string in JavaScript.
 
-### 🔍 4. 
+### 🔍 4. Hamming Distance
+- Find the distance between two strings of equal length is the number of positions at which the corresponding characters are different.
 
 ### 🔄 5. 
 
