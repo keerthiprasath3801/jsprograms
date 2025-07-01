@@ -37,6 +37,8 @@ This repository currently contains the following programs:
 - 
   🔢 12.countEvenodd
 - 
+ 🔢 13.Pair of sum in a array
+- 
 ---
 
 ## 🚀 How to Run the Code
