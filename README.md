@@ -49,6 +49,8 @@ This repository currently contains the following programs:
 - 
  🔢 18.Length of a string
 - 
+ 🔢 19.sum of a number
+- 
 ---
 
 ## 🚀 How to Run the Code
