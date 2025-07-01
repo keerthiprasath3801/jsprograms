@@ -45,6 +45,8 @@ This repository currently contains the following programs:
 - 
  🔢 16.sum of n natural numbers
 - 
+ 🔢 17.power of a number
+- 
 ---
 
 ## 🚀 How to Run the Code
