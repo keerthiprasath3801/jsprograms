@@ -47,6 +47,8 @@ This repository currently contains the following programs:
 - 
  🔢 17.power of a number
 - 
+ 🔢 18.Length of a string
+- 
 ---
 
 ## 🚀 How to Run the Code
