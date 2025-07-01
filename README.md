@@ -35,6 +35,8 @@ This repository currently contains the following programs:
 - 
   🔢 11.Remove Duplicates
 - 
+  🔢 12.countEvenodd
+- 
 ---
 
 ## 🚀 How to Run the Code
