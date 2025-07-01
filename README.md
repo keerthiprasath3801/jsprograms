@@ -29,9 +29,9 @@ This repository currently contains the following programs:
 - 
 ### 🔢 8.Arrange the numbers in Descending order
 - 
- ###🔢 9.Find the largest number in a array
+🔢 9.Find the largest number in a array
 - 
- ###🔢 10.Sum of an array
+  🔢 10.Sum of an array
 - 
 ---
 
