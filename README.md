@@ -25,6 +25,10 @@ This repository currently contains the following programs:
 
 ### 🔢 6.Find the subarray with the largest sum
 - 
+### 🔢 7.Arrange the numbers in Ascending Order
+- 
+### 🔢 8.Arrange the numbers in Descending order
+- 
 ---
 
 ## 🚀 How to Run the Code
