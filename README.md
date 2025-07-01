@@ -43,6 +43,8 @@ This repository currently contains the following programs:
 - 
  🔢 15.fib 
 - 
+ 🔢 16.sum of n natural numbers
+- 
 ---
 
 ## 🚀 How to Run the Code
