@@ -39,6 +39,8 @@ This repository currently contains the following programs:
 - 
  🔢 13.Pair of sum in a array
 - 
+ 🔢 14.factorial 
+- 
 ---
 
 ## 🚀 How to Run the Code
