@@ -33,6 +33,8 @@ This repository currently contains the following programs:
 - 
   🔢 10.Sum of an array
 - 
+  🔢 11.Remove Duplicates
+- 
 ---
 
 ## 🚀 How to Run the Code
