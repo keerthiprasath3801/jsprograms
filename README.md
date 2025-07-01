@@ -51,6 +51,8 @@ This repository currently contains the following programs:
 - 
  🔢 19.sum of a number
 - 
+ 🔢 20.Remove duplicates
+- 
 ---
 
 ## 🚀 How to Run the Code
